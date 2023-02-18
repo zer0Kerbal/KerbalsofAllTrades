@@ -22,4 +22,8 @@
 
 * no changelog provided
 
+* Issues
+  * closes #7 - Archival Releases
+  * closes #9 - 1.0.0.0-release
+
 ---
