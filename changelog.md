@@ -16,6 +16,7 @@
   * 21 Jun 2018
   * for Kerbal Space Program 1.4.3
   * by [ExodusSolis](https://github.com/ExodusSolis)
+  * archival release by [zer0Kerbal](https://github.com/zer0Kerbal)
 
 ## Summary
 
