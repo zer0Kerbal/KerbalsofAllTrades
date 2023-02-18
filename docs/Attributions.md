@@ -6,7 +6,7 @@ tags: attributions,thank-you,directions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 <!--
 Attributions.md v1.0.0.0
-Multi Role Kerbals (MRK)
+Kerbals of All Trades (KOAT)
 created: 17 Feb 2023
 updated: 
 
@@ -17,7 +17,7 @@ updated: 06 Feb 2023 -->
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
 <i class="fa fa-gear fa-spin fa-3x" style="color: firebrick"></i>
 
-# Multi Role Kerbals (MRK)
+# Kerbals of All Trades (KOAT)
 
 [Home](./index.md)
 
@@ -26,7 +26,7 @@ updated: 06 Feb 2023 -->
 ### Credits
 
 <ul>
-  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/189895-*/"><img alt="Exodus_Solis" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/set_resources_17/84c1e40ea0e759e3f1505eb1788ddf3c_default_photo.png" width="50px" height="50px" > Exodus_Solis</a> for creating the <a href="https://forum.kerbalspaceprogram.com/index.php?/topic/212070-*/" alt="Multi Role Kerbals (MRK)"> the Multi Role Kerbals (MRK) addon!</a></li>
+  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/189895-*/"><img alt="Exodus_Solis" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/set_resources_17/84c1e40ea0e759e3f1505eb1788ddf3c_default_photo.png" width="50px" height="50px" > Exodus_Solis</a> for creating the <a href="https://forum.kerbalspaceprogram.com/index.php?/topic/212070-*/" alt="Kerbals of All Trades (KOAT)"> the Kerbals of All Trades (KOAT) addon!</a></li>
   <li><i>Thank you to everyone who gave feedback! It's very important for me and highly appreciated.</i></li>
 </ul>
 
