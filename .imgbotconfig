@@ -1,7 +1,7 @@
 {
 	"schedule": "weekly",
 	"ignoredFiles": [
-		"GameData/exodussolis/MultiRoleKerbals/*",
+		"GameData/exodussolis/KerbalsofAllTrades/*",
 		"source/*",
 		"**/@thumbs/**",
 		"**/Agencies/**",
