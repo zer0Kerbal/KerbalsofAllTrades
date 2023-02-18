@@ -23,7 +23,8 @@ based upon work by LisiasT -->
 ## Trademarks <i class="fa-solid fa-trademark fa-beat-fade" style="--fa-beat-fade-opacity: 0.1; --fa-beat-fade-scale: 1.25;color: black" ></i>
 
 * "Multi-Role Kerbs" is trademark of Exodus_Solis
-* "Kerbals of All Trades (KOAT)" is trademark of Exodus_Solis
+* "Kerbals of All Trades" is trademark of zer0Kerbal
+* "KOAT" is trademark of zer0Kerbal
 * Kerbal Simple Co is a trademark of zer0Kerbal
 * KerbSimCo is a trademark of zer0Kerbal
 * KerbSimpleCo is a trademark of zer0Kerbal
