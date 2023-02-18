@@ -1,12 +1,12 @@
 {
-	"NAME"			 : "Multi Role Kerbals (MRK) by exodussolis",
-	"URL"			 : "https://raw.githubusercontent.com/zer0Kerbal/MultiRoleKerbals/master/MultiRoleKerbals.version",
-	"DOWNLOAD"		 : "https://github.com/zer0Kerbal/MultiRoleKerbals/releases/latest",
-	"CHANGE_LOG_URL" : "https://raw.githubusercontent.com/zer0Kerbal/MultiRoleKerbals/master/changelog.md",
+	"NAME"			 : "Kerbals of All Trades (KOAT) by exodussolis",
+	"URL"			 : "https://raw.githubusercontent.com/zer0Kerbal/KerbalsofAllTrades/master/KerbalsofAllTrades.version",
+	"DOWNLOAD"		 : "https://github.com/zer0Kerbal/KerbalsofAllTrades/releases/latest",
+	"CHANGE_LOG_URL" : "https://raw.githubusercontent.com/zer0Kerbal/KerbalsofAllTrades/master/changelog.md",
 	"GITHUB" :
 	{
 		"USERNAME"	        : "zer0Kerbal",
-		"REPOSITORY"		: "MultiRoleKerbals",
+		"REPOSITORY"		: "KerbalsofAllTrades",
 		"ALLOW_PRE_RELEASE" : false
 	},
 	"VERSION" :
@@ -36,7 +36,7 @@
 	},
 	"INSTALL_LOC" :
 	{
-		"NAME" :	  "MultiRoleKerbals",
-		"DIRECTORY" : "exodussolis/MultiRoleKerbals"
+		"NAME" :	  "KerbalsofAllTrades",
+		"DIRECTORY" : "exodussolis/KerbalsofAllTrades"
 	}
 }
