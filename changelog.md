@@ -1,6 +1,6 @@
 # Changelog  
   
-| modName    | Kerbals of All Trades (MRK)                                       |
+| modName    | Kerbals of All Trades (KOAT)                                       |
 | ---------- | ----------------------------------------------------------------- |
 | license    | CC-BY-ND-4.0                                                      |
 | author     | Exodus_Solis and zer0Kerbal                                       |
@@ -22,6 +22,28 @@
 ## Summary
 
 * Updated, linted, folderized and localized
+
+### Archival Releases
+
+* closes #7 - Archival Releases
+* closes #9 - 1.0.0.0-release
+
+### Localization 1.0.99.0
+
+* closes #11 - English <en-us.cfg>
+* updates #10 - Localization - Master
+
+### Behind the Curtains 1.0.99.0
+
+* closes #5 - Create GitHub Pages
+* closes #6 - Create HeroLogo.png
+* closes #8 - Create Localization directory and contents
+
+* Issues
+  * closes #1 - Kerbals Of All Trades (KOAT) 1.0.99.0-adoption `<Thank you Exodus_Solis>` edition
+  * closes #2 - 1.1.99.0 Create Legal Mumbo Jumbo
+  * closes #3 - 1.1.99.0 Create Documentation
+  * closes #4 - 1.1.99.0 Create Social Media Presence
 
 ---
 
