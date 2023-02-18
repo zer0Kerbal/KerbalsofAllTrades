@@ -1,5 +1,5 @@
 {
-	"NAME"			 : "Kerbals of All Trades (KOAT) by exodussolis",
+	"NAME"			 : "Kerbals of All Trades (KOAT) by Exodus_Solis",
 	"URL"			 : "https://raw.githubusercontent.com/zer0Kerbal/KerbalsofAllTrades/master/KerbalsofAllTrades.version",
 	"DOWNLOAD"		 : "https://github.com/zer0Kerbal/KerbalsofAllTrades/releases/latest",
 	"CHANGE_LOG_URL" : "https://raw.githubusercontent.com/zer0Kerbal/KerbalsofAllTrades/master/changelog.md",
@@ -13,30 +13,24 @@
 	{
 		"MAJOR" : 1,
 		"MINOR" : 0,
-		"PATCH" : 0,
+		"PATCH" : 99,
 		"BUILD" : 0
 	},
 	"KSP_VERSION" :
 	{
 		"MAJOR" : 1,
-		"MINOR" : 4,
-		"PATCH" : 3
+		"MINOR" : 12,
+		"PATCH" : 5
 	},
 	"KSP_VERSION_MIN" :
 	{
 		"MAJOR" : 1,
-		"MINOR" : 0,
-		"PATCH" : 0
-	},
-	"KSP_VERSION_MAX" :
-	{
-		"MAJOR" : 1,
-		"MINOR" : 4,
-		"PATCH" : 9999
+		"MINOR" : 3,
+		"PATCH" : 1
 	},
 	"INSTALL_LOC" :
 	{
 		"NAME" :	  "KerbalsofAllTrades",
-		"DIRECTORY" : "exodussolis/KerbalsofAllTrades"
+		"DIRECTORY" : "ExodusSolis/KerbalsofAllTrades"
 	}
 }
