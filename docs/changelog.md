@@ -28,9 +28,14 @@ CC BY-ND 4.0 by zer0Kerbal -->
   * 21 Jun 2018
   * for Kerbal Space Program 1.4.3
   * by [ExodusSolis](https://github.com/ExodusSolis)
+  * archival release by [zer0Kerbal](https://github.com/zer0Kerbal)
 
 ## Summary
 
 * no changelog provided
+
+* Issues
+  * closes #7 - Archival Releases
+  * closes #9 - 1.0.0.0-release
 
 ---
