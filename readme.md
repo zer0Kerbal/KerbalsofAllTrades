@@ -134,7 +134,7 @@ Comment, click, like, share, up-vote, subscribe
 [attrb]: https://zer0kerbal.github.io/KerbalsofAllTrades/Attributions "Attribution"
 [chlog]: https://raw.githubusercontent.com/zer0Kerbal/KerbalsofAllTrades/master/changelog.md  "Changelog"
 [discu]: https://github.com/zer0Kerbal/KerbalsofAllTrades/discussions "Discussions"
-[forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/192742-*/ "KerbalsofAllTrades Forum Thread"
+[forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/212070-*/ "KerbalsofAllTrades Forum Thread"
 [issue]: https://github.com/zer0Kerbal/KerbalsofAllTrades/issues "Issues"
 [notic]: https://zer0kerbal.github.io/KerbalsofAllTrades/Notices "Notices"
 [pages]: https://zer0kerbal.github.io/KerbalsofAllTrades "GitHub Pages"
