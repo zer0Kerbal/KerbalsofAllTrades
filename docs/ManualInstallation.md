@@ -5,14 +5,14 @@ description: the flat-pack Kiea instructions, written in Kerbalese, unusally pre
 tags: installation,directions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 <!-- ManualInstallation.md v1.1.8.1
-Multi Role Kerbals (MRK)
+Kerbals of All Trades (KOAT)
 created: 01 Oct 2019
 updated: 29 Jul 2022 -->
 
 <!-- this file CC BY-ND 4.0 by zer0Kerbal -->
 <!-- based upon work by Lisias -->
 
-# Multi Role Kerbals (MRK)
+# Kerbals of All Trades (KOAT)
 
 [Home](./index.md)
 
@@ -29,22 +29,22 @@ You should be all good! (check for latest version on CurseForge)
 To install, place the `exodussolis` folder inside your Kerbal Space Program's GameData folder:
 
 * **REMOVE ANY OLD VERSIONS OF THE PRODUCT BEFORE INSTALLING**
-  * Delete `<KSP_ROOT>/GameData/exodussolis/MultiRoleKerbals`
+  * Delete `<KSP_ROOT>/GameData/exodussolis/KerbalsofAllTrades`
 * Extract the package's `exodussolis/` folder into your KSP's GameData folder as follows:
   * `<PACKAGE>/exodussolis` --> `<KSP_ROOT>/GameData`
     * Overwrite any preexisting folder/file(s).
-  * you should end up with `<KSP_ROOT>/GameData/exodussolis/MultiRoleKerbals`
+  * you should end up with `<KSP_ROOT>/GameData/exodussolis/KerbalsofAllTrades`
 
 ### If Downloaded from SpaceDock / GitHub / other
 
 To install, place the `GameData` folder inside your Kerbal Space Program folder:
 
 * **REMOVE ANY OLD VERSIONS OF THE PRODUCT BEFORE INSTALLING**
-  * Delete `<KSP_ROOT>/GameData/exodussolis/MultiRoleKerbals`
+  * Delete `<KSP_ROOT>/GameData/exodussolis/KerbalsofAllTrades`
 * Extract the package's `GameData` folder into your KSP's root folder as follows:
   * `<PACKAGE>/GameData` --> `<KSP_ROOT>`
     * Overwrite any preexisting file.
-  * you should end up with `<KSP_ROOT>/GameData/exodussolis/MultiRoleKerbals`
+  * you should end up with `<KSP_ROOT>/GameData/exodussolis/KerbalsofAllTrades`
 
 ## The following file layout must be present after installation
 
@@ -52,7 +52,7 @@ To install, place the `GameData` folder inside your Kerbal Space Program folder:
 <KSP_ROOT>
   + [GameData]
     + [exodussolis]
-      + [MultiRoleKerbals]
+      + [KerbalsofAllTrades]
         + [Agencies]
           ...
         + [Compatibility]
@@ -74,7 +74,7 @@ To install, place the `GameData` folder inside your Kerbal Space Program folder:
       * CC-BY-ND-4.0.txt
       * changelog.md
       * ManualInstallation.htm
-      * MultiRoleKerbals.version
+      * KerbalsofAllTrades.version
       * readme.htm
       ...
     ...
