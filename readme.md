@@ -16,8 +16,7 @@ this file: CC BY-ND 4.0 by zer0Kerbal -->
 
 # Multi Role Kerbals (MRK)
 
-This addon will let your kerbals have many more skills than typically given
-Adds four new kerbal types.  Each one is a different merging of skills and abilities.
+This addon will let your kerbals have many more skills than typically given and adds four new kerbal types.  Each one is a different merging of skills and abilities.
 
 * Scientist / Pilot
 * Engineer / Pilot
